@@ -1,3 +1,5 @@
+The code from marks-dev branch was copied to and iterated on at https://github.com/AllpackaLabs/allpacka. This is the most current version of AllPacka.  
+
 # AllPacka
 
 This is an app that helps you and your friend prepare for any and every trip!
