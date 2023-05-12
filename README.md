@@ -1,10 +1,9 @@
 # AllPacka
 
-
-Most current version:
+# Most current version:
 The code from marks-dev branch was copied to and iterated on at https://github.com/AllpackaLabs/allpacka. This is the most current version of AllPacka.  
 
-
+# Old ReadMe info:
 This is an app that helps you and your friend prepare for any and every trip!
 
 Once you fork and clone this repo, you will need to install the
